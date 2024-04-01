@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/educabox/educabox/images/lospampa_icon.png" width="200"></a>
+  <img src="./images/lospampa_icon.png" width="200"></a>
   <br>
   EducaBox
   <br>
