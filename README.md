@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=educabox" alt="educabox" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black" alt="educabox" />
+
+
 <h1 align="center">
   <br>
   <img src="./images/lospampa_card.png" width="600"></a>
@@ -52,7 +55,7 @@ Para começar a utilizar o PampaBox em sua escola ou comunidade, siga estas etap
 ## Instalação
 
 
-- Verifique se o seu modelo de TVBox já possui um guia de instalação disponível:
+- Verifique se o seu modelo de TVBox já possui um guia de instalação disponível. Caso seu dispositivo esteja listado, clique na aba "Link":
 
 | Modelo da Placa    | SoC | Processador     | Mem     | HD | Instalação |
 |------------|------|-----------------|:-------:|:-------------:|:------------------------------------------------------------------------:|
@@ -60,7 +63,7 @@ Para começar a utilizar o PampaBox em sua escola ou comunidade, siga estas etap
 | Amlogic p212 | S905X   | Quad-core ARM Cortex-A53 1000Mhz | 1GB     | 8GB          |[Link](https://github.com/lopesvictor1/PampaBox/tree/main/boxes/amlogic-p212.md)     |
 | Amlogic Q201        | S912 | Octa-core ARM Cortex-A53 - 1200Mhz | 2GB     | 16GB           |[Link](https://github.com/lopesvictor1/PampaBox/tree/main/boxes/amlogic-q201.md)    |
 |Allwinner sun8iw7p1| Allwinner H3 | Quad-core ARM Cortex-A7 1000Mhz |X GB| X GB| [Link](https://github.com/lopesvictor1/PampaBox/tree/main/boxes/allwinner-sun8iw7p1.md) |
-- Caso possua dúvidas de como descobrir o modelo da placa ou SoC de sua TVBox siga nosso [Guia](./boxes/guia-descobrir.md).
+- Caso possua dúvidas de como descobrir o modelo da placa ou SoC de sua TVBox siga nosso [Guia](./boxes/verificar-modelo-placa.md). 
 
 
 ## Licença
