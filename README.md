@@ -5,11 +5,13 @@
   PampaBox
   <br>
 </h1>
-<h4 align="center">O projeto PampaBox visa transformar dispositivos TV Box em computadores educacionais. <a href="#" target="_blank">Pampa Box</a>.</h4>
+<h4 align="center">O projeto PampaBox visa transformar dispositivos TV Box em computadores educacionais. 
 
 ## Visão Geral
 
 O objetivo principal do PampaBox é transformar TVs comuns em ferramentas educacionais poderosas, proporcionando acesso à internet, conteúdo educacional e capacidade de processamento avançada através da instalação de sistemas operacionais baseados em Linux. Além disso, o projeto busca criar clusters de processamento utilizando esses dispositivos reutilizados, para fornecer alta capacidade de processamento com baixo custo.
+
+
 
 ## Recursos Principais
 
@@ -17,6 +19,8 @@ O objetivo principal do PampaBox é transformar TVs comuns em ferramentas educac
 - Criação de clusters de processamento utilizando dispositivos TV Box reutilizados.
 - Promoção da sustentabilidade através da reutilização de dispositivos eletrônicos.
 - Fornecimento de acesso à internet e conteúdo educacional em comunidades de baixa renda.
+
+
 
 ## Como Contribuir
 
@@ -27,6 +31,8 @@ Você pode contribuir para o PampaBox de várias maneiras:
 3. **Documentação:** Contribua para a documentação do projeto, tornando-o mais acessível para novos usuários e colaboradores.
 4. **Divulgação:** Compartilhe o projeto com sua rede para aumentar sua visibilidade e impacto.
 
+
+
 ## Como Começar
 
 Para começar a utilizar o PampaBox em sua escola ou comunidade, siga estas etapas:
@@ -36,21 +42,16 @@ Para começar a utilizar o PampaBox em sua escola ou comunidade, siga estas etap
 3. Explore os recursos e funcionalidades disponíveis para começar a utilizar o PampaBox em seu ambiente educacional.
 4. Contribua para o projeto e compartilhe sua experiência com a comunidade!
 
+
+
 ## Requisitos
 
 - Conexão com a internet.
 - Televisão com entrada HDMI.
 - Dispositivos TV Box:
+- Um SD Card (cartão de memmória) de pelo menos 8GB
+- Realize um backup da ROM atual da sua TVBox em caso de falhas durante o processo de instalação (Opcional, mas recomendado).
 
-
-| Marca    | SoC            | Fabricante                        |
-|:------:|:--------------:|:---------------------------------:|
-| Amlogic  | S905X, S905W   | [Link](https://www.amlogic.com/)  |
-| Allwinner| H3             | [Link](https://www.allwinnertech.com/) |
-
-
-
-- Realize um backup da ROM atual da sua TVBox em caso de falhas durante o processo de instalação (Opcional mas recomendado).
 
 ## Instalação
 
@@ -63,7 +64,10 @@ Para começar a utilizar o PampaBox em sua escola ou comunidade, siga estas etap
 | Amlogic p212 | S905X   | Quad-core ARM Cortex-A53 1000Mhz | 1GB     | 8GB          |[Link](https://github.com/lopesvictor1/PampaBox/tree/main/boxes/amlogic-p212.md)     |
 | Amlogic Q201        | S912 | Octa-core ARM Cortex-A53 - 1200Mhz | 2GB     | 16GB           |[Link](https://github.com/lopesvictor1/PampaBox/tree/main/boxes/amlogic-q201.md)    |
 |Allwinner dolphin| H3 (sun8iw7p1)| Quad-core ARM Cortex-A7 1000Mhz |X GB| X GB| [Link](https://github.com/lopesvictor1/PampaBox/tree/main/boxes/allwinner-dolphin.md) |
-- Caso possua dúvidas de como descobrir o modelo da placa ou SoC de sua TVBox siga nosso [Guia](./boxes/verificar-modelo-placa.md). 
+
+
+
+Caso possua dúvidas de como descobrir o modelo da placa ou SoC de sua TVBox siga nosso [Guia](./boxes/verificar-modelo-placa.md). 
 
 
 ## Licença
