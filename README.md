@@ -5,7 +5,6 @@
   PampaBox
   <br>
 </h1>
-<h4 align="center">O projeto PampaBox visa transformar dispositivos TV Box em computadores educacionais. 
 
 ## Visão Geral
 
